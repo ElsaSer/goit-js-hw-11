@@ -27,7 +27,8 @@
     "notiflix": "^3.2.7",
     "simplelightbox": "^2.14.3",
     "svgo": "^2.8.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "weak-lru-cache": "^1.2.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
